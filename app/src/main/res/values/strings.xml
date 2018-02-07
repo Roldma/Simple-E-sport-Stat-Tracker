@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">League of Legends Gold Tracker</string>
+    <string name="team_A">BBQ Olivers (BBQ)</string>
+    <string name="team_B">SK Telecom T1 (SKT)</string>
+    <string name="kill">Kill</string>
+    <string name="minion">Minion</string>
+    <string name="dragon">Dragon</string>
+    <string name="baron">Baron</string>
+    <string name="ward">Ward</string>
+    <string name="tower">Tower</string>
+    <string name="reset_button">RESET</string>
+    <string name="gold_text">0</string>
+    <string name="kill_count">0</string>
+    <string name="gold_title">Total Gold</string>
+    <string name="kill_title">Total Kills</string>
+    <string name="logo_description_a">BBQ Olivers</string>
+    <string name="logo_description_b">SKT Telecom T1</string>
+</resources>
